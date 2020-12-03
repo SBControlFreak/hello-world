@@ -2,4 +2,4 @@
 Learning
 Hello
 
-I'm learning!!
+I'm learning GitHub. I know C++ and soon GIT.
